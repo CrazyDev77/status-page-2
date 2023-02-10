@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 148,
-    "timeWeek": 146,
-    "timeMonth": 109,
-    "timeYear": 94,
+    "time": 99,
+    "timeDay": 436,
+    "timeWeek": 192,
+    "timeMonth": 120,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 28,
-    "timeWeek": 176,
-    "timeMonth": 203,
-    "timeYear": 194,
+    "time": 195,
+    "timeDay": 268,
+    "timeWeek": 189,
+    "timeMonth": 207,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 190,
-    "timeWeek": 225,
-    "timeMonth": 294,
-    "timeYear": 302,
-    "dailyMinutesDown": {
-      "2023-02-09": 12
-    }
+    "time": 305,
+    "timeDay": 311,
+    "timeWeek": 269,
+    "timeMonth": 300,
+    "timeYear": 305,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Facebook",
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 200,
-    "timeWeek": 331,
-    "timeMonth": 443,
+    "timeDay": 475,
+    "timeWeek": 346,
+    "timeMonth": 447,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 333,
-    "timeWeek": 408,
-    "timeMonth": 384,
-    "timeYear": 374,
+    "time": 376,
+    "timeDay": 473,
+    "timeWeek": 415,
+    "timeMonth": 387,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   }
 ]
