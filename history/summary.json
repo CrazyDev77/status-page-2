@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 71,
-    "timeWeek": 77,
+    "timeDay": 75,
+    "timeWeek": 79,
     "timeMonth": 98,
     "timeYear": 99,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
+    "time": 193,
     "timeDay": 83,
-    "timeWeek": 156,
-    "timeMonth": 208,
-    "timeYear": 194,
+    "timeWeek": 146,
+    "timeMonth": 204,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 221,
-    "timeWeek": 284,
-    "timeMonth": 320,
+    "timeDay": 248,
+    "timeWeek": 263,
+    "timeMonth": 325,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-27": 0
+    }
   },
   {
     "name": "Facebook",
@@ -65,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 376,
-    "timeWeek": 304,
-    "timeMonth": 364,
+    "timeDay": 524,
+    "timeWeek": 352,
+    "timeMonth": 367,
     "timeYear": 430,
     "dailyMinutesDown": {}
   },
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 423,
-    "timeWeek": 362,
-    "timeMonth": 394,
-    "timeYear": 379,
+    "time": 380,
+    "timeDay": 409,
+    "timeWeek": 378,
+    "timeMonth": 395,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   }
 ]
