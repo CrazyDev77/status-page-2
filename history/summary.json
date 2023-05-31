@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 71,
-    "timeWeek": 82,
-    "timeMonth": 114,
+    "timeDay": 77,
+    "timeWeek": 80,
+    "timeMonth": 112,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 214,
-    "timeWeek": 209,
-    "timeMonth": 233,
-    "timeYear": 210,
-    "dailyMinutesDown": {
-      "2023-05-30": 7
-    }
+    "time": 209,
+    "timeDay": 148,
+    "timeWeek": 215,
+    "timeMonth": 231,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 305,
-    "timeDay": 436,
-    "timeWeek": 224,
-    "timeMonth": 295,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 258,
+    "timeWeek": 245,
+    "timeMonth": 294,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-03-28": 35,
       "2023-03-27": 45
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 411,
-    "timeDay": 151,
-    "timeWeek": 346,
-    "timeMonth": 336,
-    "timeYear": 411,
+    "time": 412,
+    "timeDay": 469,
+    "timeWeek": 391,
+    "timeMonth": 340,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2023-04-19": 34
     }
@@ -89,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 297,
-    "timeWeek": 384,
-    "timeMonth": 434,
-    "timeYear": 396,
+    "time": 395,
+    "timeDay": 356,
+    "timeWeek": 378,
+    "timeMonth": 431,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
