@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 193,
-    "timeWeek": 112,
+    "timeDay": 189,
+    "timeWeek": 113,
     "timeMonth": 103,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2023-07-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 29,
-    "timeWeek": 181,
-    "timeMonth": 182,
+    "timeDay": 237,
+    "timeWeek": 194,
+    "timeMonth": 188,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 309,
-    "timeDay": 130,
-    "timeWeek": 423,
-    "timeMonth": 328,
-    "timeYear": 309,
+    "time": 310,
+    "timeDay": 455,
+    "timeWeek": 428,
+    "timeMonth": 336,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2023-03-28": 35,
       "2023-03-27": 45
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 408,
-    "timeDay": 663,
-    "timeWeek": 394,
-    "timeMonth": 351,
+    "timeDay": 244,
+    "timeWeek": 369,
+    "timeMonth": 353,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2023-04-19": 34
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 398,
-    "timeDay": 333,
-    "timeWeek": 360,
-    "timeMonth": 376,
+    "timeDay": 391,
+    "timeWeek": 372,
+    "timeMonth": 377,
     "timeYear": 398,
     "dailyMinutesDown": {}
   }
