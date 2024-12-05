@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 84,
-    "timeWeek": 87,
-    "timeMonth": 93,
+    "timeDay": 93,
+    "timeWeek": 88,
+    "timeMonth": 92,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-01": 35
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 249,
+    "timeDay": 223,
     "timeWeek": 265,
     "timeMonth": 246,
     "timeYear": 232,
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 356,
-    "timeDay": 109,
-    "timeWeek": 295,
-    "timeMonth": 312,
+    "timeDay": 366,
+    "timeWeek": 285,
+    "timeMonth": 310,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2024-03-19": 20,
@@ -72,13 +72,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 945,
-    "timeWeek": 1028,
-    "timeMonth": 721,
-    "timeYear": 594,
-    "dailyMinutesDown": {
-      "2023-12-06": 25
-    }
+    "timeDay": 332,
+    "timeWeek": 463,
+    "timeMonth": 722,
+    "timeYear": 595,
+    "dailyMinutesDown": {}
   },
   {
     "name": "YouTube",
@@ -92,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 364,
-    "timeWeek": 307,
-    "timeMonth": 320,
-    "timeYear": 333,
+    "timeDay": 312,
+    "timeWeek": 314,
+    "timeMonth": 322,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   }
 ]
