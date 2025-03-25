@@ -60,18 +60,20 @@
     "url": "https://facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 999,
-    "timeWeek": 814,
-    "timeMonth": 701,
-    "timeYear": 648,
-    "dailyMinutesDown": {}
+    "time": 593,
+    "timeDay": 1236,
+    "timeWeek": 897,
+    "timeMonth": 728,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   },
   {
     "name": "YouTube",
