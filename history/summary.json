@@ -30,18 +30,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
+    "time": 200,
     "timeDay": 180,
     "timeWeek": 158,
     "timeMonth": 239,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   },
   {
     "name": "Hacker News",
